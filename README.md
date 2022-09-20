@@ -1,7 +1,7 @@
 ## Oiii eu sou Goku ... ops ... João Cortez !
 
 - Hoje eu trabalho com front-end
-- Estudando ciência de dados
+- Graduando em Análise e Desenvolvimento de Sistemas
 - Realizando curso de Web Developer e Flutter na Udemy
 - Para entrar em contato: joaaocortez@gmail.com
 - Pronouns: ele/dele
